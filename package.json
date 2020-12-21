@@ -1,0 +1,37 @@
+{
+  "name": "MMM-MySeattleHomeSearch",
+  "version": "0.0.1",
+  "description": "A module for MagicMirror 2 displaying recently listed houses on MySeattleHomeSearch.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akatkov7/MMM-MySeattleHomeSearch"
+  },
+  "keywords": [
+    "magic mirror",
+    "magic mirror 2",
+    "smart mirror",
+    "seattle",
+    "home",
+    "real estate",
+    "module"
+  ],
+  "author": {
+    "name": "akatkov7",
+    "email": "example@email.com",
+    "url": "https://github.com/akatkov7"
+  },
+  "contributors": [
+    "https://github.com/akatkov7/MMM-MySeattleHomeSearch/graphs/contributors"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akatkov7/MMM-MySeattleHomeSearch/issues"
+  },
+  "homepage": "https://github.com/akatkov7/MMM-MySeattleHomeSearch",
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "leaflet": "^1.7.1"
+  }
+}

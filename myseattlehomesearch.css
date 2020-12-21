@@ -1,0 +1,10 @@
+.homeImage {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.homeText {
+    font-size: 12px;
+    line-height: 0.2em;
+}
